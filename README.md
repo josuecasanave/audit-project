@@ -1,4 +1,4 @@
-# audit-project
+# Audit-project
 
 A Claude skill that audits an **in-progress** software project — any stack — **without touching a
 single line of code**, and hands the result to whoever (or whatever) works on the repo next.
