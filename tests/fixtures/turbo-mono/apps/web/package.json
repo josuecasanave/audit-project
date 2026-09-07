@@ -1,0 +1,1 @@
+{"name":"web","dependencies":{"next":"15.0.0","@supabase/ssr":"^0.5.0"}}
