@@ -1,0 +1,15 @@
+*.audit/
+.audit/
+.audit-tmp/
+audit-*.md
+auditoria-*.md
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+Claude outputs/
